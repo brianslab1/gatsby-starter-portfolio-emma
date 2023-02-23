@@ -11,8 +11,8 @@ module.exports = {
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-emma-core/gatsby-config.js
     siteTitle: `Chris M.`,
-    siteTitleAlt: `Emma - Gatsby Starter Portfolio`,
-    siteHeadline: `Emma - Gatsby Theme from @lekoarts`,
+    siteTitleAlt: `Chris M. - Video Editing`,
+    siteHeadline: `Chris M. - Video Editing`,
     siteUrl: `https://emma.lekoarts.de`,
     siteDescription: `Minimalistic portfolio with full-width grid, page transitions, support for additional MDX pages, and a focus on large images`,
     siteImage: `/banner.jpg`,
